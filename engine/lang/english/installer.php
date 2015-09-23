@@ -2,7 +2,7 @@
   
   $installer_lang = array(
     
-    "WebWoW CMS v2 Install Script" => "WebWoW CMS v2 Install Script",
+    "WebWoW CMS v2 Install Script" => "OpenWoW CMS v1 Install Script",
     "WWC v2 Installer" => "WWC v2 Installer",
     "Language selection" => "Language selection",
     "Next Step" => "Next Step",
@@ -11,6 +11,7 @@
     "Not Writable"=>"Not Writable",
     "please chmod this file to 777"=>"please chmod this file to 777",
     "Click Here to Test Connection"=>"Click Here to Test Connection",
+	"Database Type" => "Database Type",
     "Database Host" => "Database Host",
     "Database Username"=>"Database Username",
     "Database Password"=>"Database Password",
@@ -47,9 +48,15 @@
   "Compatible Database is Autodetected"=>"Compatible Database is Autodetected",
   "found"=>"found",
   "If DB does not exists, it will be created"=>"If DB does not exists, it will be created",
+  "Click Here to Install Database" => "Click Here to Install Database",
+  "Continue"=>"Continue",
+  "Errors Found"=>"Errors Found",
+  "Errors Ignored"=>"Errors Ignored",
+  "Ignore Message"=>"Ignore Message",
   "Delete"=>"Delete",
   "Create"=>"Create",
   "Inserting data to"=>"Inserting data to",
+  "Inserting data failed"=>"Inserting data to %s failed",
   "You did not enter website database, please go step back."=>"You did not enter website database, please go step back.",
   "Tables are created successfully"=>"Tables are created successfully",
   "Failed to create tables"=>"Failed to create tables",
